@@ -45,9 +45,9 @@
 #define BLYNK_PRINT Serial
 
 /* Fill-in your Template ID (only if using Blynk.Cloud) */
-#define BLYNK_TEMPLATE_ID           "TMPLiq65GRUZ"  // FILL THIS OUT
-#define BLYNK_DEVICE_NAME           "Quickstart Device" // FILL THIS OUT
-#define BLYNK_AUTH_TOKEN            "XOu4o_9Y1LsmIsPbZqAAUCapeIGkQEMC" // FILL THIS OUT
+#define BLYNK_TEMPLATE_ID           "XXXXXX"  // FILL THIS OUT
+#define BLYNK_DEVICE_NAME           "XXXXXX" // FILL THIS OUT
+#define BLYNK_AUTH_TOKEN            "XXXXXX" // FILL THIS OUT
 
 
 #include <ESP8266WiFi.h>
